@@ -1,0 +1,6 @@
+@echo off
+echo Installing dependencies...
+py -m pip install -r requirements.txt
+echo Running Streamlit app...
+py -m streamlit run app.py
+pause
