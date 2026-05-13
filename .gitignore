@@ -27,6 +27,7 @@ wheels/
 
 # Local data/logs
 *.txt
+!requirements.txt
 *.xlsx
 *.csv
 *.zip
